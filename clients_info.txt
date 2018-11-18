@@ -1,0 +1,18 @@
+Sagar,Lamichhane,Male,165,72,23,4
+Gaurav,Dai,Male,179,79,25,3
+Jessica,Adhikari,Female,139,86,17,2
+aalu,paade,Male,33,42,22,2
+df,feds,Male,33,33,33,2
+sagar,lamichhane,Male,34,12,34,3
+saa,nsd,Female,2,1,44,2
+saas,dssd,Male,23,123,123,3
+pradip,lamsal,male,33,22,2,3
+Sagar,Lamichhane,Male,123,12,12,4
+Sagar,knscnb,Male,23,12,2,4
+ff,dd,male,333,33,33,2
+Sagar Lamichhane,dd,male,33,33,33,2
+pradippp,lamsalll,male,23,322,22,2
+Sagar,Lamichhane,Male,123,67,23,4
+Topa,Daju,Female,213,59,26,2
+sagar,lamicccc,Mae,40000,200000,12222,6
+dsa,dsaa,Female,123,12,12,5
